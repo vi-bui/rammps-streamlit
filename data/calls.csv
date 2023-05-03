@@ -1,0 +1,35 @@
+Outcome2,nperoutcome,totaln,percperoutcome,group,Eligibility
+COMP,11952,135968,8.8,DRC,Eligible
+DEFER,2910,135968,2.1,DRC,Ineligible
+INCO,80,135968,0.1,DRC,Eligible
+Other Ineligible,6977,135968,5.1,DRC,Ineligible
+Other Eligibility Unknown,15,135968,0,DRC,Eligibility unknown
+NNA/NR,102176,135968,75.1,DRC,Eligibility unknown
+NNU,8024,135968,5.9,DRC,Ineligible
+Other Eligibility Unknown,18,135968,0,DRC,Eligibility unknown
+Other Eligibility Unknown,273,135968,0.2,DRC,Eligibility unknown
+Other Ineligible,549,135968,0.4,DRC,Ineligible
+REFU,2994,135968,2.2,DRC,Eligibility unknown
+COMP,9996,103670,9.6,MW,Eligible
+DEFER,5536,103670,5.3,MW,Ineligible
+INCO,4709,103670,4.5,MW,Eligible
+Other Eligibility Unknown,67,103670,0.1,MW,Eligibility unknown
+Other Ineligible,614,103670,0.6,MW,Ineligible
+Other Eligibility Unknown,414,103670,0.4,MW,Eligibility unknown
+NNA/NR,73321,103670,70.7,MW,Eligibility unknown
+NNU,4521,103670,4.4,MW,Ineligible
+Other Eligibility Unknown,141,103670,0.1,MW,Eligibility unknown
+Other Eligibility Unknown,163,103670,0.2,MW,Eligibility unknown
+Other Ineligible,210,103670,0.2,MW,Ineligible
+REFU,3978,103670,3.8,MW,Eligibility unknown
+COMP,8919,52916,16.9,BF,Eligible
+DEFER,10170,52916,19.2,BF,Ineligible
+INCO,1304,52916,2.5,BF,Eligible
+Other Eligibility Unknown,4,52916,0,BF,Eligibility unknown
+Other Eligibility Unknown,204,52916,0.4,BF,Eligibility unknown
+NNA/NR,10869,52916,20.5,BF,Eligibility unknown
+NNU,17690,52916,33.4,BF,Ineligible
+Other Eligibility Unknown,1627,52916,3.1,BF,Eligibility unknown
+Other Eligibility Unknown,219,52916,0.4,BF,Eligibility unknown
+Other Ineligible,6,52916,0,BF,Ineligible
+REFU,1904,52916,3.6,BF,Eligibility unknown
